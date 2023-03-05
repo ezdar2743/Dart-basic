@@ -2,7 +2,8 @@
 
 ## Variables
 
-- [] Show Hello world
+- [x] Show Hello world
+      ++ Dart should have 'main' method
 - [] Var Keyword
 - [] Nullable Variables
 - [] Final Valiables
